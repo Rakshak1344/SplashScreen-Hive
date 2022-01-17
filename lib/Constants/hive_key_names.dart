@@ -1,0 +1,1 @@
+const String SPLASHSCREEN_KEY = "splashScreen";
